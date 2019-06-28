@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>71.jpg</filename>
+	<path>/home/dejan/t2/object_detection_demo/data/images/train/71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vataparat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>161</ymin>
+			<xmax>456</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

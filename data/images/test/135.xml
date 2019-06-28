@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>135.jpg</filename>
+	<path>/home/dejan/t2/object_detection_demo/data/images/test/135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vataparat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>170</ymin>
+			<xmax>454</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>
